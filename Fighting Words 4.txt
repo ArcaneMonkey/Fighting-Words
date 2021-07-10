@@ -1,0 +1,641 @@
+$name : Arc Sys Generator v2
+$author : ArcaneMonkey
+$description : Generates a random round start line.
+$amount : 1
+$picture : https://i.imgur.com/N3eAA81.png
+$button : Press Start
+
+$firstline
+YOU AINT FROM MICHIGAN IF YOU AIN'T DONE THIS BEFORE
+It's [day].
+Ah yes, [an] [aday]'s built for dads.
+THE SPOKES OF THE WHEEL OF FATE HAVE BEEN REPLACED
+EARTH IS BROKEN
+IT'S YOUR MOTHER'S BIRTHDAY
+THE DOCTOR SAID SIX MONTHS
+The Box is locked,
+BORN TO DIE
+THE LAZY SUSAN OF FATE IS TURNING
+Cant escape from pots and pans,
+FLEE FROM THE ORDERS WRITTEN IN HEAVEN
+If this bout doesn't triple my heart rate I will be very cross
+Reality is transforming!
+CAN'T ESCAPE FROM CROSSING MICHIGAN
+Money's on the table.
+Crank it To 11!
+THIS PARTY'S GETTIN' CRAZY!
+BIENVENUE POWER BOTTOMS!
+My dick is hard.
+Every cell is burning!
+Don't disappoint your father, put your hands up.
+It's [day], my dudes!
+Don't fly too close to the sun!
+YOU KNOW I HAD TO DO IT TO 'EM!
+The Book of Souls is missing your names.
+NO SUCH THING AS TOO MUCH SAUCE
+Revolvers drawn at high noon!
+A MIDNIGHT MEAL WITH THE DEVIL
+TOILET ROLL FORWARD OR BACKWARDS,
+From up above and from beneath!
+GODS PLAY DICE WITH THE UNIVERSE
+YOU'RE CANCELED
+WITHOUT THE SHEDDING OF BLOOD
+The earth of destiny is cycling
+There's nothing to eat in the fridge!
+THE CARDS HAVE BEEN DEALT
+Put on a show!
+Blame Yourself or God.
+DON'T MESS WITH TEXAS
+You don't have long on this earth
+OMENS APPEAR TO US
+Diplomacy has failed!
+SIN. DEATH. JUDGEMENT. ETERNITY.
+The building blocks of vocabulary fall forward!
+HE TOOK YOUR KIDS
+THE DOMINOES ARE FALLING!
+Welcome to Flavortown!
+CAN'T ESCAPE FROM GREAT LAKES CROSSING
+TWO MOTHERFUCKERS DETECTED
+The Moon Shall Fall
+THIS ONE GOES OUT TO THE COWS
+THE WAY IS LIT
+THE HYPER COWBOYS AIN'T GONNA LET YOU FORGET THIS
+THE WAR BELLS RING
+IF YOU DIE TONIGHT
+PEOPLE THINK THEY CAUGHT YOU SLEEPIN'
+Let us cut god to see if he bleeds!
+When is [day]?
+It’s [day], or as I like to call it:
+Can you feel the storm?
+Everyone rumored!
+Live like a wind-rammer as you fuck!
+The fight for your life was yesterday,
+PEACE IS A LIE
+Loser buys me a drink.
+It’s a good day for a swell battle!
+This match will get red hot!
+A great slam and then some!
+My wife left me yesterday.
+You gonna let ‘em get away with that?
+Don’t talk to Blanka players!
+Only one of you will be remembered in the end!
+The history of this world is written with fists!
+When we die,
+Can’t escape from crossing fate!
+The wheel of fate is turning!
+You may not think it be like it is, but it do!
+Break their spine until their children are in pain!
+The winner gets $10 and an edged orgasm.
+The struggle for survival begins anew!
+Losing is winning!
+Punks jump up to get beat down.
+Alright, folks, I want a good clean battle.
+This is the end times.
+Set em up and knock em down!
+BEAT!
+The winged serpent demands tribute.
+It’s time to break the law!
+THE EUPHONY OF LIFE IS FINITE
+Stage Restrictions and Endless Infinite Levels are Preventing you from Escaping, Coward! 
+Death comes for us all
+I call dibs on the loser’s stuff.
+This is what makes us feel ALIVE
+A clash of wills,
+Evolve or die!
+Set loose the dogs of war!
+He’s probably going to lose, but he’s going to try his best.
+The crowd came here for a battle.
+So begins the Opera of Assault,
+Make it rain, baby!
+Let’s party like a pubescent peasant!
+The moon seeks a show,
+Pick a god and pray!
+All is dust,
+Border of life,
+Catastrophe of Heaven
+Beware the Umbrella
+Drive your fire!
+Strawberry crisis?!
+Master the principal art of cutting.
+When I look at the moon I see a perfect society.
+Destroy the lies of fate
+This week's dish:
+Four hundred years fed only on hatred
+Sound and Fury
+Death loves all equally
+YOU ARE BLADES FORGED FOR ONE PURPOSE
+There is no safety here.
+RAISE YOUR SWORD AND CHALLENGE EVERYTHING
+A Storm is Approaching
+ARE YOU OKAY?
+If it has a pulse, take its skull!
+So I say. This is the law of kings
+I broke free on [an] [aday] morning
+You are a worm through time.
+Leave your insides by the door.
+A copy of a copy of a copy.
+This too shall pass.
+I WARNED YOU ABOUT THE STAIRS BRO!!!
+Fear is the appropriate response
+Rip and Tear
+Expel philosophy
+That is not dead which can eternal lie.
+THIS IS YOUR CAPTAIN SPEAKING
+TIME FOR A GRAND SLAMWICH
+THE SHOW'S ABOUT TO BEGIN
+IS IT HOT IN HERE OR IS IT JUST ME?
+The open road beckons...
+Will you spend five minutes with Jesus?
+THE GENESIS OF A NEW ERA
+BRUSH YOUR TEETH THREE TIMES DAILY
+CHECK YOUR STOVE
+On this HOLY NIGHT
+WE'RE NO STRANGERS TO LOVE
+TWO MEN WALK INTO A BAR
+THE BEAUTY AND THE SORROW
+THE TASTE OF WAR
+STRUGGLE IN A WASTED SPACE
+THE TEARS OF THE INNOCENT ARE THE WINE OF THE SINNER
+AS ABOVE SO BELOW
+UNKNOWABLE CREATURES TICKLE YOUR FEET
+The Planet Betrays You.
+Nothing is sacred.
+Beings without substance
+Beings without souls
+Strong Fighters in your Area NOW!
+My husband is DEAD!
+A necklace of follicles with sabertooth monocles
+The nuns are burning wheels again
+WONDERING WHERE THE ARBY'S WENT
+My BALLS Hurt
+Monkeys Are Fighting
+Don't Screw This Up
+Wait, don't fight!
+We are a new breed.
+You're a little teapot, short and stout
+NOW FIGHT, wait, that's backwards
+I forgot my line.
+Shit, sorry, hold on.
+CAN YOU FEEL THE SMELL OF THE GAME
+School has just begun
+It's Time To Kick Gum And Chew Ass
+I PISSED THE BED
+(The entire French translation of the Iliad)
+Holy shit, did I leave the oven on?
+Will the cycle never end?
+Fight for your right to party
+We are people with superpowers
+It’s one of those days
+The accident was 6 years ago.
+When you're a celebrity they let you do it.
+May you find a worthy opponent
+The year is zero
+Life Before Death
+There are violent and disturbing images in this game
+This is not a place of honor.
+Women want me. Fish fear me.
+Why Bother?
+It's 106 miles to Chicago. We got a full tank of gas, half a pcak of cigarettes,
+We're on a mission from god.
+The Gloves are on!
+Soul as pure as snow,
+THE FLOWERS ARE BEAUTIFUL
+It's 4:30 AM
+THE DREGS GATHER IN YOUR SHADOWS
+72 MILLION DEAD SAMURAI
+FIRE ON THE MOUNTAIN 
+
+$secondline
+NOW PAY THE MECHANIC,
+SEND THE INVOICE TO GOD
+WHY DON'T YOU GIVE HER A CALL
+THE CLOCK SAYS 90 SECONDS
+The lights are on,
+WORLD IS A FUCK
+THE FASTEST SINNER WILL EDIT THE TEXT
+Take a breath...!
+Don't disappoint us.
+THE CARBUNCLE ATE ITSELF!
+Your fists are harder.
+Blood pumping, heart racing!
+Let's get this bread,
+VARIOUS GOAT NOISES!
+One of you holds the pen.
+This town aint big enough!
+DINE AND DASH
+RANCH AND PIZZA MAKE SENSE TO HEATHENS,
+THESE APPLE BOTTOM JEANS WON'T FIT THEMSELVES
+Eyes and jaws, claws and Teeth!
+IT'S YOUR TURN.
+THERE IS NO REMISSION OF SIN
+You know what that means
+The cellphone of destiny is close!
+CASTLE DOCTRINE
+Make this a good one
+God forgive us all
+ARE YOU READY TO MEET GOD?
+Finish the story!
+YOU TOOK HIS WIFE
+WHO WILL TAKE GLORY?
+NINETY SECONDS OR LESS!
+Fight or fuck, the choice is yours!
+ONLY ONE MAY LEAVE
+THE PATH IS CLEAR
+ABANDON THE ILLUSIONS OF FATE
+HEAVEN OR HELL
+BUT THE PODCAST STILL ENDS AT 4:59
+Breakfast in bed!
+Fate is not a cage except to those who fear it.
+If my god should fail me, I shall kill him too.
+Forgive us for this violence we are about to inflict.
+[day]!
+This is the truth!
+Breakdown!
+It’s coming!
+No one beleived!
+There is no shame in losing.
+There is much shame in losing!
+This will be a match to remember!
+but this still matters!
+THERE IS ONLY PASSION!
+My father killed himself last week
+Decide fate!
+We die alone!
+Actually, just go crazy with it!
+You better go all out!
+DOWN!
+RAZE THE EARTH
+Ready or not, here we go!
+This is what makes us strong!
+Let’s make it a whole series!
+Necrophantasia
+Where is the heart?
+Infinite darkness.
+Smell the reek of destruction!
+This is Bullshit Blazing!
+Exhale! exult!
+Royalty is a continuous cutting motion.
+Wield the blade of want!
+Prove your will is eternal!
+Cajun-style gumbo with a little pinch of violence
+ALWAYS LISTEN TO A HOT BABE
+The dawn is your ENEMY
+Love is under my will only
+Symbolizing nothing
+The secret doom is within this sermon
+Bask in my glamour!
+Say no elegies for the melting stone.
+ATLAS OF SMOKE
+Every star in the sky is holding its breath
+It Cannot End Like This
+BURNING!
+Does any of it matter?
+Money and Power Through Homicide!
+If it builds a house, smash it flat!
+Strength is my god
+Either make it your own or learn your place.
+Happiness comes later
+White pearls, but yellow and red in the eye
+You've always been the new you.
+A copy of a copy of a copy.
+This happens more and more now.
+After the song, time for applause!
+You must choose to be the chosen one.
+HAIL THE CONQUEROR WORM!
+Does fighting make you horny too?
+Hope you brought your brown pants!
+I TOLD YOU DOG!
+IT KEEPS HAPPENING
+Behold! A Man!
+Until it is Done
+Reverse Ideology
+This is what you are
+Live to forget!
+The fate of sixty years
+HOPE YOU ENJOY YOUR FLIGHT
+EXPECT SOME TURBULENCE
+THE AUDIENCE IS IN THEIR SEATS
+IT'S ABOUT TO GET TOASTY
+Whose moxie matches their motor?
+WHALE BURIAL
+DO you have what it takes to come out on top of a no holds barred match with your lord and savior?
+TIME IS APPROACHING FIGHT TILL DEATH
+SECOND PLACE WINS THE KITCHENAID STAND MIXER
+LAST ONE IN IS A ROTTEN EGG
+HALLELUJAH, HOLY SHIT WHERE'S THE TYLENOL
+IT'S ALMOST BEDTIME, PLAYER
+streams int he desert
+ACTS of the ALMIGHTY
+YOU KNOW THE RULES AND SO DO I
+GOD HAS LEFT
+CHILD OF THE DARK
+CONFRONT THE GOD OF YOUR FEARS
+WALK ON WATER TO REACH THE FUTURE
+NOW LET YOUR BLOOD AND BODY BE AS ONE
+DIVINE SOLILOQUY OF MAN AND BEAST
+Thick, ropey strands
+UNKNOWABLE CREATURES TICKLE YOUR FEET
+BETTER FIND SOME SOCKS
+A Texas Funeral
+Nothing is safe.
+Oh shit, I'm feeling it!
+I don't want love. I justy want violence
+FORSAKEN, DEPRAVED AND WROUGHT WITH FEAR 
+Raise your entrails as an offer
+SHIT
+HAKUNA MATATA
+Guys, stop.
+You've shown them your handle
+THE STENCH MAKES THE HEAT RISE HIGHER
+The Playground is yours
+And I'm all out of ass!
+GOD DAMN IT BILLY
+There's no time to worry about that now!
+I have been here before.
+Any regrets?
+Have you no shame?
+Put it all on the line
+So it's time for one of us to pull a power up from his ass
+It’s time to exterminate
+You have to move on.
+Grab them by the HEAT OF BATTLE!
+May your sins come back to torment you
+Your ash will not touch the ground.
+MAY GOD HAVE MERCY ON YOUR WRETCHED SOUL
+and oh shit, some motherfucker about to touch cow tits.
+Strength Before Weakness
+Hateful maggots, all.
+I am alone on this barren earth.
+Do your parents know where you are?
+Did you get your permissin slip?
+You got a loicense for them fists?
+Eat a dick
+It's dark, and we're wearing sunglasses.
+This review is getting long!
+Corrupted by the Eternal Swamp.
+YOUR AUNT IS ALREADY DRUNK
+I'm drunk as hell
+THE VANQUISHED ARE SENT AS A WARNING TO GOD
+CARPOOLING FOR A SINGLE GRAVE
+BRAILLE KNUCKLES FOR THE BLIND
+THE LAST ERA BEGINS
+RUN BOYS RUN
+DEVILS IN THE HOUSE OF THE RISING SUN
+
+$number
+First Regret
+Beginning of the End
+Carnage One
+First Clash!
+MISSION ONE
+First Engagement
+Wing 1!
+Chapter One
+INVOICE ONE
+Ball 1: 
+Round the first: 
+FIRST TRY
+FIRST HOWDY!
+FIRST RECEIPT
+FIRST CONFLICT,
+Round Uno
+TELLING 1
+Concert 1
+FIRST SHOWDOWN
+KILLING ONE
+First Murder
+First Course
+FISTING FIRST
+FIRST FISTING
+FINAL BREAKDOWN
+ROUND 410,757,864,530
+FIRST DRAW
+This IS my first rodeo
+FIRST BLOOD
+PSALM 1
+REBEL ONE
+Duel One
+Act One
+POWER ONE
+Riot 1
+First Chorus
+Synchronization 1
+SERMON ONE
+KAMPF EINER
+ORIGINAL SIN
+[FIRST|SECOND|THIRD] DEGREE BURNS INCOMING
+LAST RIDE
+NEW TESTAMENT
+1st DRIP
+Boof One
+First Sip
+First Bell
+THIS WON'T BE THE LAST TIME
+how many times have you been here
+Beehive the first!
+1st Attempt
+Blues 1
+Let's wrap this up!
+VOW 1
+I don't remember how to play this game
+DEFCON 3:
+OPPRESSION VERDICT UNO: 
+
+$thirdline
+LET'S GET THE MONEY
+Let's get on it, Cunts.
+and car.
+Let's get it, crackers.
+Get motivated, white boy!
+GO
+BEGIN
+FIGHT
+ATTACK
+ITS ROBOT FIGHTIN' TIME!
+Kill Em All 1989
+Let's Cook!
+MAKE IT SLOPPY
+Go Apeshit
+BLOW IT UP!
+Crush
+GET FUCKED!
+LET'S ROCK!
+FREEZE BALLS, ENGAGE!
+SMASH.
+EVISCERATE
+Dick'em Down
+Grind!
+TAKE OFF!
+MAKE IT HAPPEN!
+TELL US A STORY!
+DATE'S OVER!
+IT'S YO BOY! ALTERCATION ENGAGE SEVENTH SUNDAY!
+It comes.
+RUN!
+ROLL INITIATIVE
+SPILL THE TEA, SIS!
+STRUGGLE
+FIND THE JUSTICE
+GO FOR IT!
+Order Delivery!
+FIGHT AGAINST FATE!
+LET THE MUSIC PLAY!
+Throw Hands!
+WHATABURGER!
+Eat shit!
+Reach Heaven Through Violence
+THROW US TO THE BEASTS
+End it all!
+Unite up!
+Whip em out!
+WRITE!
+Go upstairs
+OLÉ
+Get Suckin'
+Break it all down!
+Rev it up
+ENGAGE
+ORCHESTRATE
+GATHER YOUR COURAGE AND GO FORTH!
+LET'S RODEO
+LET IT HOWL!
+TELL 'EM THE COWS SENT YA!
+LESGO
+Show me your moves!
+Pull my Devil Trigger!
+UNLEASH
+Give me release!
+AGGRESS
+Let there be no genesis.
+Annihilate the Beast
+Nourish the soil with blood!
+Spin the wheel!
+Spin the wheel and laugh at God!
+CUT
+SLASH
+BURN
+D I E
+Jackpot!
+Bury the Light!
+Ready Your Weapons!
+Showtime!
+3 2 1 GO!
+BEGIN!
+You ready to fuck ‘em up?
+LET’S JAM
+Bottom’s up!
+Go punch [him|her|them], I guess...
+Wallop!
+Fight, I guess...
+KICK THEIR ASS
+COMMENCE!
+Now fight for your life!
+DO IT! DO IT NOW!
+SMACK EM UP
+THE RACE WAR STARTS NOW
+Bust ‘em!
+Give us the old razzle dazzle!
+DANCE
+Fight it off!
+FIST
+GET! THE! DICK!
+Reach for the moon!
+Reach for the skies!
+Back down!
+LAME IT OUT
+QUENCH YOUR SWORD IN THEIR BLOOD
+Shatter the scriptures!
+Eviscerate Opposition
+IMMINENT HOMICIDE
+Perish screaming beneath the wheel of progress!
+Smash it all flat!
+BREAK OUT
+There's work for the axe.
+The egg cracks!
+Let's showdown!
+Stand unrivaled
+There Can Be Only One
+Let's get jiggy with it!
+TAKEOFF
+SAVE ROOM FOR DESSERT
+AAAAAAAND... ACTION!
+BLAZE WITH GLORY
+PEDAL, MEET METAL!
+FIND OUT THIS [DAY]
+NEW BREED
+GET HAIRY
+5 minutes with Jesus
+FIGHT FOR FREEDOM
+READY, STEADY, GO!
+SUCK A TYLENOL
+CRUCIFY
+PULL 'EM UP!
+[Bop|Twist|Pull] it!
+Simon Says Fight!
+MAKE SOME FOOD FOR THEW WORMS!
+Carpe Diem!
+Sieze Victory!
+MAKE 'EM A DEAD MOTHERFUCKER!
+Bosnia!
+Chlamydia
+Don't
+Turn Up the Heat
+NOW SHOW THEM YOUR SPOUT!
+THEN PAIN
+LESSON START
+RIP ASS
+DO IT AGAIN
+KERFUFFLE!
+Let's Rumba!
+Yee-Haw!
+Kill ‘em Dead!
+Step into the abyss
+Creation Precedes Only Destruction
+Journey Before Destination
+Rev it up!
+HAIL SATAN
+Hit it.
+Make your opponent uncomfortable!
+Make your opponent regret their life choices!
+Let's Boogie.
+Now! BEAT! THAT! MEAT!
+LETS TUSSLE
+DESCEND
+LET'S JIGGY
+You ready to play?
+
+$day
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Labor Day
+Everyday
+Goku Day {50%}
+Piccolo Day {50%}
+Valentine’s Day
+White Day
+Black Day
+a holiday
+a workday
+
+$aday
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Labor Day
+Everyday
+Valentine’s Day
+White Day
+Black Day
+
+
+$line
+<h3>[firstline]<br><br>[secondline]<br><br>[number]<br><br>[thirdline]</h3>
